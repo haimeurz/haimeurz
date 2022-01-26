@@ -5,10 +5,7 @@
 -->
 ## - 🔭 I’m currently working at Canadian Meteorological Centre Dorval as a software engineer intern
 ## - 🌱 I’m currently learning Python, pandas and numpy
-## - 📫 How to reach me: haimeurz@gmail.com 
-
-<a href="https://www.linkedin.com/in/haimeur-zakaria/" target="_blank"><img src="images/linkedin.png" height="40px"></a> 
-<a href="haimeurz@gmail.com" target="_blank"><img src="images/Mail.png" height="40px"></a> 
+## - 📫 How to reach me: <a href="https://www.linkedin.com/in/haimeur-zakaria/" target="_blank"><img src="images/linkedin.png" height="40px"></a> <a href="haimeurz@gmail.com" target="_blank"><img src="images/Mail.png" height="40px"></a> 
 
 
 ## - 😄 Pronouns:He/him ...
