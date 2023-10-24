@@ -1,9 +1,9 @@
 
 <h2>About me</h2>
 <p align="center"><i>
-Hi there my name is Zakaria 👋
-
-I'm a Full stack Software Engineer student at ETS</i></p>
+Hi there my name is Zakaria 👋</i></p>
+<p align="center"><i>
+ I'm a Full stack Software Engineer Student at ETS</i></p>
 
 
 <h2>Free time</h2>
